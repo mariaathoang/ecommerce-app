@@ -1,10 +1,17 @@
 import variety_ice_cream from './variety_ice_cream.png'
+import ice_creams from './ice_creams.png'
 import logo from './logo.png'
 import search_icon from './search_icon.png'
 import profile_icon from './profile_icon.png'
+import contact from './contact.png'
 import cart_icon from './cart_icon.png'
 import menu_icon from './menu_icon.png'
 import close_icon from './close_icon.png'
+import exchange_icon from './exchange_icon.png'
+import quality_icon from './quality_icon.png'
+import support_icon from './support_icon.png'
+import dropdown_icon from './dropdown_icon.png'
+import trash_icon from './trash_icon.png'
 import power_cap from './power_cap.png'
 import yomamttae from './yomamttae.png'
 import red_bean from './red_bean.png'
@@ -18,19 +25,20 @@ import cone from './cone.png'
 import encho from './encho.png'
 import jeju from './jeju.png'
 import power_cap_watermelon from './power_cap_watermelon.png'
-import exchange_icon from './exchange_icon.png'
-import quality_icon from './quality_icon.png'
-import support_icon from './support_icon.png'
-import dropdown_icon from './dropdown_icon.png'
-import trash_icon from './trash_icon.png'
+import klarna_logo from './klarna_logo.png'
+import visa_mastercard_logo from './visa_mastercard_logo.png'
+import paypal_logo from './paypal_logo.png'
+
 
 
 export const assets = {
     variety_ice_cream,
+    ice_creams,
     logo,
     search_icon,
     profile_icon,
     trash_icon,
+    contact,
     cart_icon,
     menu_icon,
     close_icon,
@@ -50,6 +58,9 @@ export const assets = {
     fanfare,
     encho,
     jeju,
+    klarna_logo,
+    visa_mastercard_logo,
+    paypal_logo
 
 }
 
