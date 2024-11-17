@@ -9,7 +9,7 @@ const NewProducts = () => {
     const[newProducts, setNewProducts] = useState([]);
 
     useEffect(() => {
-        setNewProducts(products.slice(0,10)); // add 10 products
+        setNewProducts(products.slice(0,5)); // add 10 products
     }, [])
 
   return (
