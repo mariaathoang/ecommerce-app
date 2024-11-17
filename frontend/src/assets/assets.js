@@ -22,6 +22,7 @@ import exchange_icon from './exchange_icon.png'
 import quality_icon from './quality_icon.png'
 import support_icon from './support_icon.png'
 import dropdown_icon from './dropdown_icon.png'
+import trash_icon from './trash_icon.png'
 
 
 export const assets = {
@@ -29,6 +30,7 @@ export const assets = {
     logo,
     search_icon,
     profile_icon,
+    trash_icon,
     cart_icon,
     menu_icon,
     close_icon,
