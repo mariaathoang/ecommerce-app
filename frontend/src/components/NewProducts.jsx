@@ -10,7 +10,7 @@ const NewProducts = () => {
 
     useEffect(() => {
         setNewProducts(products.slice(0,5)); // add 10 products
-    }, [])
+    }, [products])
 
   return (
     <div className='my-10'>
