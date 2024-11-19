@@ -24,9 +24,8 @@ const Cart = () => {
       }
       setCartData(tempData);
     }
-
-
-  }, [cartItems])
+  }, [cartItems, products])
+  
   return (
     <div className='border-t pt-14'>
       <div className='text-2xl mb-3'>
